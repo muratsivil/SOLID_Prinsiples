@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Liskov Subtitution Principle\" />
+    <Folder Include="Interface Segregation Principle\" />
+    <Folder Include="Open Close Principle\" />
+    <Folder Include="Single Responsibility Principle\" />
+  </ItemGroup>
+
+</Project>
