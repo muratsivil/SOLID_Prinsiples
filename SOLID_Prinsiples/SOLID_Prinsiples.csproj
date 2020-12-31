@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <Folder Include="Liskov Subtitution Principle\" />
-    <Folder Include="Interface Segregation Principle\" />
     <Folder Include="Open Close Principle\" />
     <Folder Include="Single Responsibility Principle\" />
   </ItemGroup>
